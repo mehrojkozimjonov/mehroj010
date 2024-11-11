@@ -1,0 +1,29 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+section {
+    width: 100%;
+    height: 600px;
+    border: 4px solid rgb(1, 244, 10);
+    background-image: url(./pexelsphoto1732414.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+
+section div h1 {
+    font-size: 100px;
+    letter-spacing: 1px;
+    font-family: 'Playfair Display', serif !important;
+    background-image: url(https://img1.picmix.com/output/stamp/normal/2/4/5/0/2060542_7652d.gif);
+    color: transparent;
+    -webkit-background-clip: text;
+    background-size: contain;
+    margin: top 50px;
+    padding: 250px 0 0 150px;
+}
+
+section div {
+    width: 700px;
+}

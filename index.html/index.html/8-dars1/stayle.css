@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+section {
+    width: 100%;
+    height: 600px;
+    border: 4px solid rgb(0, 16, 243);
+    background-image: url(https://img.jamesedition.com/listing_images/2024/09/27/12/31/21/19f34c3f-6490-40ff-976d-78b8ed162a75/je/760x470xc.jpg);
+    background-position: center;
+    background-size: cover;
+}
+section h1{
+    font-size: 140px;
+    font-family: 'Playfair Display', serif !important;
+    background-image: url(https://i.gifer.com/origin/c7/c795fccbcc24322a9107cca44252227b_w200.gif);
+    color: transparent;
+    -webkit-background-clip: text;
+    margin-top: 50px;
+    padding: 250px 0px 0px 98px ;
+}
+section h1{
+    width: 700px;
+
+}
+
